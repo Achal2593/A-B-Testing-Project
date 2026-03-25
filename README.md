@@ -21,7 +21,6 @@
 - [Statistical Methods](#statistical-methods)
 - [Key Findings](#key-findings)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 

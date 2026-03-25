@@ -217,10 +217,4 @@ Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) a
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 *Built with Python · pandas · scipy · pymc · matplotlib · seaborn*

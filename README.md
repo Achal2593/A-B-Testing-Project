@@ -273,7 +273,7 @@ pytest tests/ -v
 ## 👤 About Me
 
 **Achal Wakade** | Aspiring Data Analyst | Available immediately
-🔗 [LinkedIn] | [GitHub]
+🔗 [LinkedIn](https://www.linkedin.com/in/achal-wakade-554494180) | [GitHub](https://github.com/Achal2593)
 
 ```
 

@@ -135,7 +135,7 @@ ab-testing-project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ab-testing-project.git
+git clone https://github.com/Achal2593/ab-testing-project.git
 cd ab-testing-project
 
 # Create virtual environment
@@ -233,12 +233,6 @@ jupyter lab notebooks/
 ## 🤝 Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) and submit a Pull Request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 

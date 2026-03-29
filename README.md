@@ -135,7 +135,7 @@ ab-testing-project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Achal2593/ab-testing-project.git
+git clone https://github.com/Achal2593/A-B-Testing-Project.git
 cd ab-testing-project
 
 # Create virtual environment

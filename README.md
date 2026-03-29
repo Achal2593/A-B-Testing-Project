@@ -230,6 +230,72 @@ jupyter lab notebooks/
 
 ---
 
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|---|---|
+| Python 3.10+ | Core programming language |
+| pandas | Data manipulation and preprocessing |
+| NumPy | Numerical computations |
+| SciPy | Statistical tests (z-test, t-test) |
+| statsmodels | Power analysis and proportion tests |
+| Matplotlib / Seaborn | Data visualizations |
+| PyMC / ArviZ | Bayesian inference |
+| pytest | Unit testing |
+| GitHub Actions | CI/CD pipeline |
+
+---
+
+## 🚀 How to Run
+```bash
+# 1. Clone the repository
+git clone https://github.com/Achal2593/A-B-Testing-Project.git
+cd A-B-Testing-Project
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Generate data
+python src/utils/data_loader.py --generate
+
+# 4. Run full analysis
+python src/analysis/frequentist.py
+python src/analysis/bayesian.py
+
+# 5. Generate all charts
+python src/visualization/plots.py
+
+# 6. Run tests
+pytest tests/ -v
+
+```
+
+## 👤 About Me
+
+**Achal Wakade** | Aspiring Data Analyst | Available immediately
+🔗 [LinkedIn] | [GitHub]
+
+```
+
+## How to Paste on GitHub
+
+1. Go to your repo → click `README.md`
+2. Click the ✏️ **pencil icon** to edit
+3. Scroll to the very bottom of the file
+4. Find this last section:
+
+```
+
+## 📄 License
+
+This project is licensed under the MIT License...
+
+---
+
+*Built with Python · pandas · scipy · pymc · matplotlib · seaborn*
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) and submit a Pull Request.

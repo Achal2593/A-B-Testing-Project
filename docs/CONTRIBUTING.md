@@ -5,7 +5,7 @@ Thank you for your interest in contributing! Here's how to get started.
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/ab-testing-project.git`
+2. Clone your fork: `git clone https://github.com/Achal2593/ab-testing-project.git`
 3. Create a feature branch: `git checkout -b feature/your-feature-name`
 4. Install dev dependencies: `pip install -r requirements.txt`
 
